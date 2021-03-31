@@ -3,6 +3,10 @@
 ![](https://img.shields.io/github/forks/abirbhattacharya82/Know-Your-Time?color=green&logo=github&style=plastic)
 ![](https://img.shields.io/github/stars/abirbhattacharya82/Know-Your-Time?color=green&logo=github&style=plastic)
 ------------------------------
+## Demo
+![](Demo.png)
+[How To Use](Manual.md)
+-------------------------------
 * Before Making any Contribution make sure you read the [Guidelines](Guidelines.md) properly.
 * Struck and Unable to make any Contributions even if you want check out [How to Contribute](how_to_contribute.md)
 * New to GiHub?
